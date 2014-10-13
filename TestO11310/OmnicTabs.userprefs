@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Omnic/Tabbed.Touch/Views/LocationEntityDetailsView.designer.cs">
+    <Files>
+      <File FileName="Omnic/Tabbed.Touch/Views/LocationEntityDetailsView.cs" Line="1" Column="1" />
+      <File FileName="Omnic/Tabbed.Touch/Views/GrandChildView.cs" Line="1" Column="1" />
+      <File FileName="Omnic/Tabbed.Touch/Views/LocationEntitiesView.cs" Line="1" Column="1" />
+      <File FileName="Omnic/Tabbed.Core/ViewModels/LocationEntitiesListViewModel.cs" Line="1" Column="1" />
+      <File FileName="Omnic/Tabbed.Touch/Views/ImageCollectionView.cs" Line="1" Column="1" />
+      <File FileName="Omnic/Tabbed.Core/ViewModels/ImageCollectionTabViewModel.cs" Line="1" Column="1" />
+      <File FileName="Omnic/Tabbed.Touch/Views/LocationEntityDetailsView.designer.cs" Line="11" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/admin/Desktop/TestO/Omnic/Tabbed.Touch/Views/FirstView.cs" line="158" column="45" />
+      <Breakpoint file="/Users/admin/Desktop/TestO/Omnic/Tabbed.Touch/Views/OmnicTabsView.cs" line="68" column="1" />
+      <Breakpoint file="/Users/admin/Desktop/TestO/Omnic/Tabbed.Core/ViewModels/OmnicTabsViewModel.cs" line="23" column="1" />
+      <Breakpoint file="/Users/admin/Desktop/TestO/Omnic/Tabbed.Core/ViewModels/OmnicTabsViewModel.cs" line="17" column="1" />
+      <Breakpoint file="/Developer/MonoTouch/Source/mono/mcs/class/corlib/System.Reflection/MonoMethod.cs" line="537" column="1" />
+      <Breakpoint file="/Users/admin/Desktop/TestO/Omnic/Tabbed.Touch/Views/OmnicTabsView.cs" line="50" column="1" />
+      <Breakpoint file="/Users/admin/Desktop/TestO/Omnic/Tabbed.Touch/Views/FirstView.cs" line="103" column="1" />
+      <Breakpoint file="/Users/admin/Desktop/TestO/Omnic/Tabbed.Touch/Views/FirstView.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Omnic/Tabbed.Droid/OmnicTabs.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>
