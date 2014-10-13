@@ -1,0 +1,242 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2FE87ADF0000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3379877D0000000000000000 /* UIKit.framework */; };
+		117E1E120000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 150F2AB00000000000000000 /* MapKit.framework */; };
+		26B186AA0000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A4293480000000000000000 /* Foundation.framework */; };
+		1A1C68F30000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DAD75910000000000000000 /* CoreGraphics.framework */; };
+		A0F7CA100000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DA0893F00000000000000000 /* Info.plist */; };
+		1F42E5390000000000000000 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 22D3F1D70000000000000000 /* Default.png */; };
+		D6DA62300000000000000000 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 10FEB2C10000000000000000 /* Default@2x.png */; };
+		3B98670D0000000000000000 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2973AB0000000000000000 /* Default-568h@2x.png */; };
+		326172D80000000000000000 /* LocationEntityDetailsView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35F27F760000000000000000 /* LocationEntityDetailsView.xib */; };
+		1066096D0000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 13F7160B0000000000000000 /* AppDelegate.h */; };
+		391DC5DC0000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAED27A0000000000000000 /* AppDelegate.m */; };
+		157347B00000000000000000 /* OmnicTabsView.h in Sources */ = {isa = PBXBuildFile; fileRef = 1904544E0000000000000000 /* OmnicTabsView.h */; };
+		2E37BCE60000000000000000 /* OmnicTabsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 31C8C9840000000000000000 /* OmnicTabsView.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3A83A4D80000000000000000 /* OmnicTabs.Touch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "OmnicTabs.Touch.app"; path = "OmnicTabs.Touch.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3379877D0000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		150F2AB00000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		2A4293480000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		1DAD75910000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		DA0893F00000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		22D3F1D70000000000000000 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default.png"; path = "Default.png"; sourceTree = "<group>"; };
+		10FEB2C10000000000000000 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "Default@2x.png"; sourceTree = "<group>"; };
+		3F2973AB0000000000000000 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		35F27F760000000000000000 /* LocationEntityDetailsView.xib */ = {isa = PBXFileReference; name = "LocationEntityDetailsView.xib"; path = "Views/LocationEntityDetailsView.xib"; sourceTree = "<group>"; };
+		13F7160B0000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		3CAED27A0000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		1904544E0000000000000000 /* OmnicTabsView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "OmnicTabsView.h"; path = "OmnicTabsView.h"; sourceTree = "<group>"; };
+		31C8C9840000000000000000 /* OmnicTabsView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "OmnicTabsView.m"; path = "OmnicTabsView.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C8BC70A00000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2FE87ADF0000000000000000 /* UIKit.framework in Frameworks */,
+				117E1E120000000000000000 /* MapKit.framework in Frameworks */,
+				26B186AA0000000000000000 /* Foundation.framework in Frameworks */,
+				1A1C68F30000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2CA538980000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				173EECE40000000000000000 /* OmnicTabs.Touch */,
+				37585E720000000000000000 /* Frameworks */,
+				21F212BE0000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		21F212BE0000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3A83A4D80000000000000000 /* OmnicTabs.Touch.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		37585E720000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3379877D0000000000000000 /* UIKit.framework */,
+				150F2AB00000000000000000 /* MapKit.framework */,
+				2A4293480000000000000000 /* Foundation.framework */,
+				1DAD75910000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		173EECE40000000000000000 /* OmnicTabs.Touch */ = {
+			isa = PBXGroup;
+			children = (
+				13F7160B0000000000000000 /* AppDelegate.h */,
+				22D3F1D70000000000000000 /* Default.png */,
+				10FEB2C10000000000000000 /* Default@2x.png */,
+				3F2973AB0000000000000000 /* Default-568h@2x.png */,
+				DA0893F00000000000000000 /* Info.plist */,
+				1904544E0000000000000000 /* OmnicTabsView.h */,
+				304C97DF0000000000000000 /* Supporting Files */,
+				160BF1040000000000000000 /* Views */,
+			);
+			name = "OmnicTabs.Touch";
+			sourceTree = "<group>";
+		};
+		160BF1040000000000000000 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				35F27F760000000000000000 /* LocationEntityDetailsView.xib */,
+			);
+			name = "Views";
+			sourceTree = "<group>";
+		};
+		304C97DF0000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3CAED27A0000000000000000 /* AppDelegate.m */,
+				31C8C9840000000000000000 /* OmnicTabsView.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		32FBC5640000000000000000 /* OmnicTabs.Touch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2FD07EFE0000000000000000 /* Build configuration list for PBXNativeTarget "OmnicTabs.Touch" */;
+			buildPhases = (
+				3AB687F40000000000000000 /* Sources */,
+				C8BC70A00000000000000000 /* Frameworks */,
+				23A1277F0000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "OmnicTabs.Touch";
+			productName = "OmnicTabs.Touch";
+			productReference = 3A83A4D80000000000000000 /* OmnicTabs.Touch.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		28489F8A0000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 251D59240000000000000000 /* Build configuration list for PBXProject "OmnicTabs.Touch" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2CA538980000000000000000;
+			productRefGroup = 21F212BE0000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				32FBC5640000000000000000 /* OmnicTabs.Touch */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		23A1277F0000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A0F7CA100000000000000000 /* Info.plist in Resources */,
+				1F42E5390000000000000000 /* Default.png in Resources */,
+				D6DA62300000000000000000 /* Default@2x.png in Resources */,
+				3B98670D0000000000000000 /* Default-568h@2x.png in Resources */,
+				326172D80000000000000000 /* LocationEntityDetailsView.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3AB687F40000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1066096D0000000000000000 /* AppDelegate.h in Sources */,
+				391DC5DC0000000000000000 /* AppDelegate.m in Sources */,
+				157347B00000000000000000 /* OmnicTabsView.h in Sources */,
+				2E37BCE60000000000000000 /* OmnicTabsView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		321EFB900000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		1A6A334A0000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "OmnicTabs.Touch";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		251D59240000000000000000 /* Build configuration list for PBXProject "OmnicTabs.Touch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				321EFB900000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		2FD07EFE0000000000000000 /* Build configuration list for PBXNativeTarget "OmnicTabs.Touch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A6A334A0000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 28489F8A0000000000000000 /* Project object */;
+}

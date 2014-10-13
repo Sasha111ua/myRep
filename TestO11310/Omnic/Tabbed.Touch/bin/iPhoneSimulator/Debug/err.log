@@ -1,0 +1,38 @@
+2014-10-11 21:43:24.180 TabbedTouch[2488:47251] MonoTouch: Socket error while connecting to MonoDevelop on 127.0.0.1:10000: Connection refused
+2014-10-11 21:43:25.323 TabbedTouch[2488:47212] mvx: Diagnostic:   0.01 Setup: PlatformServices start
+2014-10-11 21:43:25.331 TabbedTouch[2488:47212] mvx: Diagnostic:   0.04 Setup: MvvmCross settings start
+2014-10-11 21:43:25.331 TabbedTouch[2488:47212] mvx: Diagnostic:   0.04 Setup: Singleton Cache start
+2014-10-11 21:43:25.332 TabbedTouch[2488:47212] mvx: Diagnostic:   0.04 Setup: Bootstrap actions
+2014-10-11 21:43:25.346 TabbedTouch[2488:47212] mvx: Diagnostic:   0.06 Setup: StringToTypeParser start
+2014-10-11 21:43:25.348 TabbedTouch[2488:47212] mvx: Diagnostic:   0.06 Setup: CommandHelper start
+2014-10-11 21:43:25.348 TabbedTouch[2488:47212] mvx: Diagnostic:   0.06 Setup: ViewModelFramework start
+2014-10-11 21:43:25.349 TabbedTouch[2488:47212] mvx: Diagnostic:   0.06 Setup: PluginManagerFramework start
+2014-10-11 21:43:25.361 TabbedTouch[2488:47212] mvx: Diagnostic:   0.07 Ensuring Plugin is loaded for Cirrious.MvvmCross.Plugins.File.PluginLoader
+2014-10-11 21:43:25.362 TabbedTouch[2488:47212] mvx: Diagnostic:   0.07 Ensuring Plugin is loaded for Cirrious.MvvmCross.Plugins.DownloadCache.PluginLoader
+2014-10-11 21:43:25.365 TabbedTouch[2488:47212] mvx: Diagnostic:   0.08 Ensuring Plugin is loaded for Cirrious.MvvmCross.Plugins.Location.PluginLoader
+2014-10-11 21:43:25.366 TabbedTouch[2488:47212] mvx: Diagnostic:   0.08 Setup: App start
+2014-10-11 21:43:25.388 TabbedTouch[2488:47212] mvx: Diagnostic:   0.10 Setup: ViewModelTypeFinder start
+2014-10-11 21:43:25.393 TabbedTouch[2488:47212] mvx: Diagnostic:   0.10 Setup: ViewsContainer start
+2014-10-11 21:43:25.394 TabbedTouch[2488:47212] mvx: Diagnostic:   0.11 Setup: ViewDispatcher start
+2014-10-11 21:43:25.394 TabbedTouch[2488:47212] mvx: Diagnostic:   0.11 Setup: Views start
+2014-10-11 21:43:25.408 TabbedTouch[2488:47212] mvx: Diagnostic:   0.12 Setup: CommandCollectionBuilder start
+2014-10-11 21:43:25.408 TabbedTouch[2488:47212] mvx: Diagnostic:   0.12 Setup: NavigationSerializer start
+2014-10-11 21:43:25.409 TabbedTouch[2488:47212] mvx: Diagnostic:   0.12 Setup: InpcInterception start
+2014-10-11 21:43:25.409 TabbedTouch[2488:47212] mvx: Diagnostic:   0.12 Setup: LastChance start
+2014-10-11 21:43:25.434 TabbedTouch[2488:47212] mvx: Diagnostic:   0.15 Setup: Secondary end
+2014-10-11 21:43:25.435 TabbedTouch[2488:47212] mvx: Diagnostic:   0.15 Showing ViewModel OmnicTabsTouchViewModel
+2014-10-11 21:43:25.436 TabbedTouch[2488:47212] TouchNavigation: Diagnostic:   0.15 Navigate requested
+2014-10-11 21:43:25.446 TabbedTouch[2488:47212] mvx: Diagnostic:   0.16 Request is null - assuming this is a TabBar type situation where ViewDidLoad is called during construction... patching the request now - but watch out for problems with virtual calls during construction
+2014-10-11 21:43:29.982 TabbedTouch[2488:47329] mvx: Warning:   4.69 Persistent download cache will not be available - no text serializer available
+2014-10-11 21:43:31.180 TabbedTouch[2488:47212] TouchNavigation: Diagnostic:   5.89 Navigate requested
+2014-10-11 21:43:37.814 TabbedTouch[2488:47212] mvx: Diagnostic:  12.53 Requesting presentation change
+2014-10-11 21:43:37.817 TabbedTouch[2488:47212] mvx: Diagnostic:  12.53 Requesting presentation change
+2014-10-11 21:43:37.817 TabbedTouch[2488:47212] mvx: Warning:  12.53 Don't know how to close this viewmodel - topmost view does not present this viewmodel
+2014-10-11 21:43:40.528 TabbedTouch[2488:47212] TouchNavigation: Diagnostic:  15.24 Navigate requested
+2014-10-11 21:43:41.557 TabbedTouch[2488:47212] mvx: Diagnostic:  16.27 Requesting presentation change
+2014-10-11 21:43:41.557 TabbedTouch[2488:47212] mvx: Diagnostic:  16.27 Requesting presentation change
+2014-10-11 21:43:41.557 TabbedTouch[2488:47212] mvx: Warning:  16.27 Don't know how to close this viewmodel - topmost view does not present this viewmodel
+2014-10-11 21:43:42.581 TabbedTouch[2488:47212] TouchNavigation: Diagnostic:  17.29 Navigate requested
+2014-10-11 21:43:44.385 TabbedTouch[2488:47212] mvx: Diagnostic:  19.10 Requesting presentation change
+2014-10-11 21:43:44.399 TabbedTouch[2488:47212] mvx: Diagnostic:  19.11 Requesting presentation change
+2014-10-11 21:43:44.399 TabbedTouch[2488:47212] mvx: Warning:  19.11 Don't know how to close this viewmodel - topmost view does not present this viewmodel
